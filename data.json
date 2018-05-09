@@ -4,5 +4,17 @@
 "name":"RNS",
 "amount":"5000",
 "rooms":"4"
-}
+},
+  {
+    "id":2,
+    "name":"AMS",
+    "amount":"6000",
+    "rooms":"2"
+  },
+  {
+    "id":2,
+    "name":"YNS",
+    "amount":"2000",
+    "rooms":"1"
+  }
 ]
