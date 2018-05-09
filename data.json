@@ -2,8 +2,7 @@
 {
 "id":1,
 "name":"RNS",
-"checkindate":"5/9/2018",
-"checkoutdate":"5/15/2018",
-"amount":"5000"
+"amount":"5000",
+"rooms":"4"
 }
 ]
