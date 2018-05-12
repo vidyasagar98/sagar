@@ -1,0 +1,40 @@
+[
+    {"manufacturer": "Apple",
+    "modelName": "IPhone 6",
+    "storage": "16 GB",
+    "OS": "IOS",
+    "camera": "8 Mpx",
+    "price": "Rs.43899",
+    "image": "/assets/htc-one-m8-for-windows.jpg",
+    "class": "normal"
+}, 
+    {"manufacturer": "HTC",
+    "modelName": "HTC One M8",
+    "storage": "30 GB",
+    "OS": "Android",
+    "camera": "5 Mpx",
+    "price": "Rs.67899",
+    "image": "assets/htc-one-m8-for-windows.jpg",
+    "class": "normal"
+},
+    {"manufacturer": "Nokia",
+    "modelName": "Lumia 535",
+    "storage": "16 GB",
+    "OS": "Windows",
+    "camera": "5 Mpx",
+    "price": "Rs.10000",
+    "image": "assets/iphone6.jpg",
+    "class": "normal"
+},
+{
+    "manufacturer": "Nokia",
+    "modelName": "Lumia 530",
+    "storage": "32 GB",
+    "OS": "Windows",
+    "camera": "15 Mpx",
+    "price": "Rs.17000",
+    "image": "assets/iphone6.jpg",
+    "class": "normal"
+  }
+
+]
