@@ -1,0 +1,14 @@
+[
+    {"userid": "sagar@gmail.com",
+    "password": "sagarmca58",
+    "role":"1"
+}, 
+    {"manufacturer": "vidyasagar",
+    "modelName": "sagar",
+    "role":"1"
+},
+ {"manufacturer": "vidyasagaradmin",
+    "modelName": "admin",
+    "role":"2"
+}
+]
