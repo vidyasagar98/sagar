@@ -53,9 +53,40 @@
     "dishname":"snacks",
     "class":"normal"
 },
+    {"title": "Mongdal",
+    "image":"https://user-images.githubusercontent.com/39114052/40120291-7ac739aa-593c-11e8-88e5-a9e12d0c7ebf.jpg",
+    "ingridents": ["oil-2cups","wheat-2cups","pepper-2spoon","salat-2spoon"],
+    "dishname":"snacks",
+    "class":"normal"
+},
  {"title": "masalarice",
-    "image":"https://user-images.githubusercontent.com/39114052/40116844-9bed9606-5932-11e8-8771-ed6b6b42350e.jpg",
+    "image":"https://user-images.githubusercontent.com/39114052/40124561-742b0acc-5946-11e8-9606-201541c4c61e.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","masala-1spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "plainrice",
+    "image":"https://user-images.githubusercontent.com/39114052/40124723-cd18e60e-5946-11e8-8a6b-1eca2145b1af.jpg",
     "ingridents": ["water-5cups","rice-3cups","salt-2spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "Jeerarice",
+    "image":"https://user-images.githubusercontent.com/39114052/40124847-106de904-5947-11e8-8381-4967d8b1d169.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    },
+    {"title": "palakrice",
+    "image":"https://user-images.githubusercontent.com/39114052/40125003-6aeb63de-5947-11e8-9a6b-b6f8448bddec.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon","palak-1cut"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "potatorice",
+    "image":"https://user-images.githubusercontent.com/39114052/40125090-aa3187d0-5947-11e8-9b01-3503ab65b0c9.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon","potato-2pieces"],
     "dishname":"rice",
     "class":"normal"
 }
