@@ -1,19 +1,19 @@
 [
     {"title": "masaladosa",
     "image":"https://user-images.githubusercontent.com/39114052/40107978-5af29770-5917-11e8-9ddd-e50938ce7d22.jpg",
-    "ingridents": ["water-5cups,rice-2cups,oil-2spoon"],
+    "ingridents": ["water-5cups","rice-2cups","oil-2spoon"],
     "dishname":"breakfast",
     "class":"normal"
 }, 
     {"title": "gulabjamoon",
     "image":"https://user-images.githubusercontent.com/39114052/40107978-5af29770-5917-11e8-9ddd-e50938ce7d22.jpg",
-    "ingridents": ["water-5cups,jamoon-mida-2cups,sugar-5spoon"],
+    "ingridents": ["water-5cups","jamoon-mida-2cups","sugar-5spoon"],
     "dishname":"snacks",
     "class":"normal"
 },
  {"title": "masalarice",
     "image":"https://user-images.githubusercontent.com/39114052/40107978-5af29770-5917-11e8-9ddd-e50938ce7d22.jpg",
-    "ingridents": ["water-5cups,rice-3cups,salt-2spoon"],
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon"],
     "dishname":"rice",
     "class":"normal"
 }
