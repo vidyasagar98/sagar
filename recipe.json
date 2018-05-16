@@ -89,5 +89,17 @@
     "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon","potato-2pieces"],
     "dishname":"rice",
     "class":"normal"
+},
+    {"title": "panneer",
+    "image":"https://user-images.githubusercontent.com/39114052/40131809-9bb7c136-5958-11e8-9d0f-7adcc87dc5c5.jpg",
+    "ingridents": ["sugar-2spoon","Milk-2packet","curd-1packet"],
+    "dishname":"daibetic",
+    "class":"normal"
+},
+    {"title": "diasweet",
+    "image":"https://user-images.githubusercontent.com/39114052/40120084-fd632230-593b-11e8-81cb-d1960c731555.jpg",
+    "ingridents": ["sugar-2spoon","Milk-2packet","panner-1packet","curd-1packet"],
+    "dishname":"daibetic",
+    "class":"normal"
 }
 ]
