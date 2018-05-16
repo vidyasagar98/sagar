@@ -1,0 +1,20 @@
+[
+    {"title": "masaladosa",
+    "image":"",
+    "ingridents": ["water-5cups,rice-2cups,oil-2spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "gulabjamoon",
+    "image":"",
+    "ingridents": ["water-5cups,jamoon-mida-2cups,sugar-5spoon"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+ {"title": "masalarice",
+    "image":"",
+    "ingridents": ["water-5cups,rice-3cups,salt-2spoon"],
+    "dishname":"rice",
+    "class":"normal"
+}
+]
