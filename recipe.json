@@ -1,1 +1,94 @@
 
+[
+    {"title": "Masaladosa",
+    "image":"https://user-images.githubusercontent.com/39114052/40116844-9bed9606-5932-11e8-8771-ed6b6b42350e.jpg",
+    "ingridents": ["water-5cups","rice-2cups","oil-2spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "Upma",
+    "image":"https://user-images.githubusercontent.com/39114052/40118002-44c9fa78-5936-11e8-95f3-81df8b9d744b.jpg",
+    "ingridents": ["water-5cups","rava-2cups","oil-2spoon","salt-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "parathas",
+    "image":"https://user-images.githubusercontent.com/39114052/40118094-902dca58-5936-11e8-8457-b4c59903bee0.jpg",
+    "ingridents": ["Mida-5cups","oil-2spoon","salt-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "Noodels",
+    "image":"https://user-images.githubusercontent.com/39114052/40118186-d698ad64-5936-11e8-9d8d-d8556a05975c.jpg",
+    "ingridents": ["Noodels-2packs","Oil-2spoon","Salt-1spoon","Pepper-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "Masala Noodels",
+    "image":"https://user-images.githubusercontent.com/39114052/40118186-d698ad64-5936-11e8-9d8d-d8556a05975c.jpg",
+    "ingridents": ["Noodels-2packs","Oil-2spoon","Salt-1spoon","Pepper-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "gulabjamoon",
+    "image":"https://user-images.githubusercontent.com/39114052/40119994-b883d1fa-593b-11e8-91a3-dbf6bcba888a.jpg",
+    "ingridents": ["water-5cups","jamoon-mida-2cups","sugar-5spoon"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+    {"title": "Rasgulla",
+    "image":"https://user-images.githubusercontent.com/39114052/40120084-fd632230-593b-11e8-81cb-d1960c731555.jpg",
+    "ingridents": ["water-5cups","mida-2cups","sugar-5spoon","milk-2glass"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+    {"title": "Peda",
+    "image":"https://user-images.githubusercontent.com/39114052/40120186-402391fe-593c-11e8-8abc-23bb1eab4002.jpg",
+    "ingridents": ["water-5cups","peda-mida-2cups","sugar-5spoon","milk-2cups"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+    {"title": "Sev",
+    "image":"https://user-images.githubusercontent.com/39114052/40120291-7ac739aa-593c-11e8-88e5-a9e12d0c7ebf.jpg",
+    "ingridents": ["oil-2cups","mida-2cups","pepper-2spoon"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+    {"title": "Mongdal",
+    "image":"https://user-images.githubusercontent.com/39114052/40120291-7ac739aa-593c-11e8-88e5-a9e12d0c7ebf.jpg",
+    "ingridents": ["oil-2cups","wheat-2cups","pepper-2spoon","salat-2spoon"],
+    "dishname":"snacks",
+    "class":"normal"
+},
+ {"title": "masalarice",
+    "image":"https://user-images.githubusercontent.com/39114052/40124561-742b0acc-5946-11e8-9606-201541c4c61e.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","masala-1spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "plainrice",
+    "image":"https://user-images.githubusercontent.com/39114052/40124723-cd18e60e-5946-11e8-8a6b-1eca2145b1af.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "Jeerarice",
+    "image":"https://user-images.githubusercontent.com/39114052/40124847-106de904-5947-11e8-8381-4967d8b1d169.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    
+    {"title": "palakrice",
+    "image":"https://user-images.githubusercontent.com/39114052/40125003-6aeb63de-5947-11e8-9a6b-b6f8448bddec.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon","palak-1cut"],
+    "dishname":"rice",
+    "class":"normal"
+},
+    {"title": "potatorice",
+    "image":"https://user-images.githubusercontent.com/39114052/40125090-aa3187d0-5947-11e8-9b01-3503ab65b0c9.jpg",
+    "ingridents": ["water-5cups","rice-3cups","salt-2spoon","jeera-2spoon","potato-2pieces"],
+    "dishname":"rice",
+    "class":"normal"
+}
+]
