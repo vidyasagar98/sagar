@@ -1,7 +1,25 @@
 [
-    {"title": "masaladosa",
+    {"title": "Masaladosa",
     "image":"https://user-images.githubusercontent.com/39114052/40116844-9bed9606-5932-11e8-8771-ed6b6b42350e.jpg",
     "ingridents": ["water-5cups","rice-2cups","oil-2spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "Upma",
+    "image":"https://user-images.githubusercontent.com/39114052/40118002-44c9fa78-5936-11e8-95f3-81df8b9d744b.jpg",
+    "ingridents": ["water-5cups","rava-2cups","oil-2spoon","salt-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "parathas",
+    "image":"https://user-images.githubusercontent.com/39114052/40118094-902dca58-5936-11e8-8457-b4c59903bee0.jpg",
+    "ingridents": ["Mida-5cups","oil-2spoon","salt-1spoon"],
+    "dishname":"breakfast",
+    "class":"normal"
+}, 
+    {"title": "Noodels",
+    "image":"https://user-images.githubusercontent.com/39114052/40118186-d698ad64-5936-11e8-9d8d-d8556a05975c.jpg",
+    "ingridents": ["Noodels-2packs","Oil-2spoon","Salt-1spoon","Pepper-1spoon"],
     "dishname":"breakfast",
     "class":"normal"
 }, 
